@@ -4,12 +4,12 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s - 
- * @n: 
- * @next: 
+ * struct listint_s - the suppose singly list
+ * @n: the givrn integer
+ * @next: the necessary pointer
  *
- * Description: 
- * 
+ * Description: this is a file that shows the necessary singly list
+ *
  */
 typedef struct listint_s
 {
