@@ -22,5 +22,4 @@ void free_listint(listint_t *head);
 listint_t *add_nodeint(listint_t **head, const int n);
 int check_cycle(listint_t *list);
 
-#endif
-
+#endif /* LISTS_H */
