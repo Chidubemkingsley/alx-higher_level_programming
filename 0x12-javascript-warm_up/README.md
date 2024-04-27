@@ -55,6 +55,5 @@ In this project, I learnt:
     Web front-end
 
 For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery.</i>
->>>>>>> 911991996eb944494b46606deef056a2e0caa3c9
 
 
